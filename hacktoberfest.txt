@@ -1,9 +1,0 @@
-Hey guyzz! new as you all are new to the open source..So let me guide you with some of the commands to follow make your process of making your own repositries a bit easier....
-
-1.Firstly if you dont have a git bash install it as per your requirements whether it is macbook or windows.Now in git bash move to the folder where your file exists.  
-2.Now write the command git init
-3.git remote add origin "link of your repositry in github"
-4.Now to check whether the above command has set your pointer to your repositry or not write command,, git remote -v
-5.Now write git commit -m "new repositry"
-6.git add .
-7.git push origin master
